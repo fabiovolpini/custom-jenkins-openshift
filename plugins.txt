@@ -10,3 +10,4 @@ anchore-container-scanner:latest
 aqua-microscanner:latest
 fortify-on-demand-uploader:latest
 sonar-quality-gates:latest
+kubernetes:latest
